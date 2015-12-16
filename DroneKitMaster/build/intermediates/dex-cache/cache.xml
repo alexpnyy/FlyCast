@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/exploded-aar/com.o3dr.android/dronekit-android/2.3.34/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dbf50c980b532ce15f0bfb59966b414845549ae8">
+        <dex dex="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/pre-dexed/debug/classes-099a5d6f4c6aa630e7551530a1e5aacd57541a03.jar" />
+    </item>
+    <item
+        jar="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/pre-dexed/debug/classes-fe12de724ab8ea362386923e908eb8c879d88d89.jar" />
+    </item>
+    <item
+        jar="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1ec9955b1436455fda1a2834f1516ab9c49592a8.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6a11d973e95e3e971f3dc44da36c0b7d67866a10.jar" />
+    </item>
+    <item
+        jar="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/exploded-aar/com.o3dr.android/dronekit-android/2.3.34/jars/libs/Mavlink.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e1e5cc8277ec48d76bfa321829f6ce6870cc9a1">
+        <dex dex="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/pre-dexed/debug/Mavlink-567d9cfdc63027ee3eacf68362c97a92f8a9e8ef.jar" />
+    </item>
+    <item
+        jar="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/benz/AndroidStudio/DroneKitMaster/app/build/intermediates/pre-dexed/debug/classes-49a4b51ed386b7da5c22811c33fd87ab69e50e76.jar" />
+    </item>
+
+</items>
