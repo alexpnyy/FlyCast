@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/libs/droneapi-java-0.3-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a4e96b9dec592b176ef872faf0b42c75f993c5e">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/droneapi-java-0.3-SNAPSHOT-b94535f284ed95299e96ca515d124d8ba943ffe0.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-55736c938b870a4e1f81dda398628724b4c3c383.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/libs/protobuf-java-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a10732c76bfacdbd633a7eb0f7968b1059a65dfa">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/protobuf-java-2.5.0-5854a79ceff3e79a91c245be7a2978c8c73b2d4a.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.github.lecho/hellocharts-library/1.5.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65ed384e3fa43f415bac7f9d0f2e94da39273456">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-3289051e49d118822791d3167b41c5c772f46bbc.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="222f84147f4e660b0713d04aecdd73a5223aa82a">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-f8a59fd247a3683e46d924e619ac290e2dc1aea3.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-cf619942b3b11d5b9976ace3e745c7a38c95e9df.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/libs/sius-0.3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7bd4f89ae9393114db4848a7eab7674071d74d6b">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/sius-0.3.0-SNAPSHOT-35fc68b1d3c21329331d8381cb1d628f2a913df6.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.o3dr.android/dronekit-android/2.6.8-beta2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8928ffce31c2519e88e622a4957c099527e96539">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-0a2737626bebb125fbb2b685b67d8135f0e33ca5.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-7de5e746a8e4b2c54ae98a12e18d2f8d8ec09fd4.jar" />
+    </item>
+    <item
+        jar="/Users/benz/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/library-2.4.0-6fb536f09991c1a065776467f002b4fce4331d39.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/me.grantland/autofittextview/0.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="972ca945f0cf5ff0765ab94fa8e1a90661ea197a">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-baa2ba8ad1d2d0391c89b66565e74d314fa95a2d.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e65060ef2ec6ec98365250d2119d7968626fd3f">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-20668cfc3904755ffee93c3c98f5227ad64ffe56.jar" />
+    </item>
+    <item
+        jar="/Users/benz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/okhttp-2.3.0-1e3d155c8969a15f46d87826e794e98af83fc1b4.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-ab78c510cd6709f40e7fd6354f98405f3e9f359e.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-16efcb9f64f1a9a7fafb32959fbb1070ab1f1bea.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/shimmer-android-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5fa5cadfe1ff032aa74e53c331e3dde35d0be3e">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-e34e1e52c31e4af14b125c5ab1497e0141c5f3f2.jar" />
+    </item>
+    <item
+        jar="/Users/benz/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/0.14.449/5b3fbac3cd9c019ed24e40fe69ea64fcf1d051a7/kotlin-stdlib-0.14.449.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b3fbac3cd9c019ed24e40fe69ea64fcf1d051a7">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/kotlin-stdlib-0.14.449-47f3d6f19459928c555621001deb4e41142a1da9.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-31521b155800da6adc57d6a90f9e3132205904eb.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-e5e73b73163c7c532f07e91a115401880799b476.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/2.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="579a13f257d393fa870a50809656089cdbeb7506">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-fb27b70466a238c4451436d084585e2ca51d9f7a.jar" />
+    </item>
+    <item
+        jar="/Users/benz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.3.0/4f12ec1e1455909e1f0b8530c719c90b2d01745/okhttp-urlconnection-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04f12ec1e1455909e1f0b8530c719c90b2d01745">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.3.0-646a5c798741a4b2f62b0fc419466c0c1c8c24d8.jar" />
+    </item>
+    <item
+        jar="/Users/benz/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/0.14.449/ac48aaaf7373c9b7a48d914623fab6da988462de/kotlin-runtime-0.14.449.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac48aaaf7373c9b7a48d914623fab6da988462de">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/kotlin-runtime-0.14.449-0ce90bac1f97d6010f5f061e0c6744aa94b99ba3.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.o3dr.android/dronekit-android/2.6.8-beta2/jars/libs/Mavlink.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="13fe0c8978080733dff0ea42514d7a9409e51272">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/Mavlink-66ed43d7146938185d367fbd0d0764d76eb5ba10.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-4ed8b71fe4485010127a279c1dbd1d3e72275d5d.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-52122530e252dbb3fb0b69648dd2cc8c385f1e7a.jar" />
+    </item>
+    <item
+        jar="/Users/benz/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/okio-1.3.0-f60c00f4352418bee2497a6069b07ce45065deae.jar" />
+    </item>
+    <item
+        jar="/Users/benz/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/3.1.0/3ab2aedaeb4bfa698d0021cb843b2040fbf57fc/timber-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03ab2aedaeb4bfa698d0021cb843b2040fbf57fc">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/timber-3.1.0-a68ac0d507736e42c89653d2e291eb9fae310c6d.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-c0797f4e6a97a52d7d2da67c38cea25542b3fb8a.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-f22b3c04c2af2a8262d62a8c0b0ef9ff20d6ac5f.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-e03b99de6e60e238e97b5f5ef0c376e59219108b.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="442495d769faa63f8a998fc0abb17ce187a6aa77">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-ba0a690a9f834ee81126de02f16d0065a00a24bf.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/classes-f2f652e470c095272e4be1c081c130587ca8a432.jar" />
+    </item>
+    <item
+        jar="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/libs/jeromq-0.3.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1aaa40f8267f9e3dc86dc8e7e0fbfba0c6e9e47b">
+        <dex dex="/Users/benz/Google Drive/File Cabinet/_School/School 2016/Senior Project/Software/tower/Android/build/intermediates/pre-dexed/debug/jeromq-0.3.4-9c8f0cfa09d0abdd40d6747c8faf0555694dad21.jar" />
+    </item>
+
+</items>
